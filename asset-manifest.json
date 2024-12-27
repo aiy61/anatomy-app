@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aiy61/anatomy-app/static/css/main.0d0430b1.css",
+    "main.js": "/aiy61/anatomy-app/static/js/main.37f1027e.js",
+    "index.html": "/aiy61/anatomy-app/index.html",
+    "main.0d0430b1.css.map": "/aiy61/anatomy-app/static/css/main.0d0430b1.css.map",
+    "main.37f1027e.js.map": "/aiy61/anatomy-app/static/js/main.37f1027e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0430b1.css",
+    "static/js/main.37f1027e.js"
+  ]
+}
